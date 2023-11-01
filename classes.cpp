@@ -2,18 +2,18 @@
 using namespace std;
 
 void Student::saveToFile(ofstream& file) {
-    file << "Ім'я: " << name << endl;
-    file << "Вік: " << age << " років" << endl;
+    file << "Name: " << name << endl;
+    file << "Age: " << age << " years old" << endl;
 }
 
 void Actor::saveToFile(ofstream& file) {
-    file << "Ім'я: " << name << endl;
-    file << "Вік: " << age << " років" << endl;
-    file << "Роль: " << role << endl;
+    file << "Name: " << name << endl;
+    file << "Age: " << age << " years old" << endl;
+    file << "Role: " << role << endl;
 }
 
 void KvnParticipant::saveToFile(ofstream& file) {
-    file << "Ім'я: " << name << endl;
-    file << "Вік: " << age << " років" << endl;
-    file << "Номер команди: " << teamNumber << endl;
+    file << "Name: " << name << endl;
+    file << "Age: " << age << " years old" << endl;
+    file << "Number of team: " << teamNumber << endl;
 }

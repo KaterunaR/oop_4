@@ -2,7 +2,7 @@ Name: Ivan
 Age: 20 years old
 -----------------------
 Name: Petro
-Age: 25 років
+Age: 25 years old
 Role: Main role
 -----------------------
 Name: Maria
