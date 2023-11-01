@@ -1,10 +1,10 @@
-м'я: Ivan
-Вік: 20 років
+Name: Ivan
+Age: 20 years old
 -----------------------
-Ім'я: Petro
-Вік: 25 років
-Роль: Main role
+Name: Petro
+Age: 25 років
+Role: Main role
 -----------------------
-Ім'я: Maria
-Вік: 22 років
-Номер команди: 3
+Name: Maria
+Age: 22 years old
+Number of team: 3
